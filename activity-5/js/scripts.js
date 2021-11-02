@@ -53,8 +53,8 @@
   };
 
   // Wrapper function for getElementId
-var getEl = function (id) {
-  return document.getElementById(id);
+  var getEl = function (id) {
+    return document.getElementById(id);
   }
 
   // Writes the package object's data to the page
